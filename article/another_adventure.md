@@ -20,10 +20,14 @@ Another Adventure没有人知道的大冒险 是一款在steam发售的“视觉
 ![picture](https://github.com/aloneneutrino/article/blob/master/images/1/5.png)
 
 其实这游戏游戏性比较低，它更像一个故事。与《晚班》中错综复杂的剧情不同，它讲的是一个在现实当中时刻都在发生的故事。
-＊　阿强是个有梦想的大学生，他每天晚上都会把闹钟定到次日早上6点。但是就像很多同学一样，他直到上课前十五分钟才起床，还在整堂课上刷知乎微博。
-＊　阿杰是个梦想改变世界，却只是将公司的需求按部就班地敲成代码的程序员。（程序员还可以写写博客什么的，其他的某些工科只是为了糊口）
-＊　阿青是个骑车去西藏，在白云和经文中获得了心灵宁静的文艺青年。
-＊　阿民是个整天思索游戏创意，却并没想出什么，只好山寨别人的游戏开发者。
+
+阿强是个有梦想的大学生，他每天晚上都会把闹钟定到次日早上6点。但是就像很多同学一样，他直到上课前十五分钟才起床，还在整堂课上刷知乎微博。
+
+阿杰是个梦想改变世界，却只是将公司的需求按部就班地敲成代码的程序员。（程序员还可以写写博客什么的，其他的某些工科只是为了糊口）
+
+阿青是个骑车去西藏，在白云和经文中获得了心灵宁静的文艺青年。
+
+阿民是个整天思索游戏创意，却并没想出什么，只好山寨别人的游戏开发者。
 
 他们是作者的影子，也是我们的影子。
 
@@ -32,13 +36,14 @@ Another Adventure没有人知道的大冒险 是一款在steam发售的“视觉
 ![picture](https://github.com/aloneneutrino/article/blob/master/images/1/6.jpg)
 ![picture](https://github.com/aloneneutrino/article/blob/master/images/1/7.jpg)
 
-＊　管他是不是荒诞，明天总会到来。明天是一定会来的。＊
-《没有人知道的大冒险》：人生是否只是一场假的冒险？
-http://www.g-cores.com/articles/26167
-《没有人知道的大冒险》:一个从精分到文艺的游戏开发者
-https://indienova.com/indie-game-review/another-adventure-and-the-man-behind-it/
-如何评价 steam 上新上架的独立游戏《没有人知道的大冒险》？
-https://www.zhihu.com/question/56962861
-以及非常感人的评论区: http://steamcommunity.com/app/604450/reviews/?p=1&browsefilter=toprated
+**管他是不是荒诞，明天总会到来。明天是一定会来的**
+
+[《没有人知道的大冒险》：人生是否只是一场假的冒险？](http://www.g-cores.com/articles/26167)
+
+[《没有人知道的大冒险》:一个从精分到文艺的游戏开发者](https://indienova.com/indie-game-review/another-adventure-and-the-man-behind-it/)
+
+[如何评价 steam 上新上架的独立游戏《没有人知道的大冒险》？](https://www.zhihu.com/question/56962861)
+
+[以及非常感人的评论区](https://steamcommunity.com/app/604450/reviews/?p=1&browsefilter=toprated)
 
 感谢Riot.F同学和我的高中同学芬里尔之魂
